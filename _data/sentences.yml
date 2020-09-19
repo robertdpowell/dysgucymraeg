@@ -3,8 +3,53 @@
 
 cards:
 
-- front: english
-  back: welsh
+- front: I bought a newspaper yesterday
+  back: Prynais i bapur newydd ddoe
+
+- front: What did you buy yesterday?
+  back: Beth prynaist ti ddoe?
+
+- front: Did you buy anything yesterday?
+  back: Brynaist ti rywbeth ddoe?
+
+- front: I went to the cinema last month
+  back:  Es i i'r sinema y mis diwetha
+
+- front: What did you do last night?
+  back:  Beth wnest ti neithiwr?
+
+- front: When did you arrive today?
+  back:  Pryd codoch chi heddiw?
+
+- front: Did you have a good time?
+  back:  Gest ti amser da?
+
+- front: I had a very good time
+  back:  Ces i amser da iwan
+
+- front: What did you learn?
+  back:  Beth ddygaist ti?
+
+- front: Did you eat fruit yesterday?
+  back:  Fwytaist ti ffrwythau ddoe?
+
+- front: Where did you stay on your last holiday?
+  back:  Ble arhosaist ti ar dy wyliau diwetha?
+
+- front: She started last week
+  back:  Dechreuoedd hi yr wythnos diwetha
+
+- front: She started walking when she was 9 months old
+  back:  Dechreuoedd hi cerdded pan oedd hi'n naw mis oedd
+
+- front: She went to the office 
+  back:  Aeth hi i'r swyddfa
+
+
+
+
+
+
 
 
 
