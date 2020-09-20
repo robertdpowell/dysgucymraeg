@@ -3,6 +3,24 @@
 
 cards:
 
+- front: What would you like to do?
+  back: Beth faset ti'n hoffi ei wneud?
+
+- front: She would live in New Zealand
+  back: Basai hi'n byw yn Seland Newydd
+
+- front: They wouldn't sell their Jacuzzi
+  back: Fasen nhw ddim yn gwerthu eu jacwsi
+
+- front: I would like to go to Italy
+  back: Baswn i'n hoffi mynd i'r Eidal
+
+- front: Could you run a mile?
+  back: Fasech chi'n gallu rhedeg milltir?
+
+- front: I wouldn't like to eat snails
+  back: Faswn i ddim yn lico bwyta malwod
+
 - front: I bought a newspaper yesterday
   back: Prynais i bapur newydd ddoe
 
@@ -53,6 +71,45 @@ cards:
 
 - front: Do you know anyone who plays netball?
   back:  Wyt ti'n nabod rhywun sy'n chwarae pêl-rwyd
+
+- front: I know someone who will be going to Snowden on Sunday
+  back:  Dwi'n nabod rhywun fydd yn mynd i'r Wyddfa dydd Sul
+
+- front:  What's for dinner tonight?
+  back:  Beth sy i ginio heno?
+
+- front:  Who is on the phone?
+  back:  Pwy sy ar y ffôn?
+
+- front:  How many are in the class?
+  back:  Faint sy yn y dosbarth?
+
+- front:  How much time have you got?
+  back:  Faint o amser sy gyda chi?
+
+- front:  How many children have you got?
+  back:  Faint o blant sy gyda chi?
+
+- front:  I know someone who used to play golf
+  back:  Dwi'n nabod rhywun oedd yn chwarae golff.
+
+- front:  What's happening in work this week?
+  back:  Beth sy'n digwydd yn y gwaith yr wythnos yma?
+
+- front:  Jon worked last weekend
+  back:  Gweithiodd Jon y penwythnos diwetha
+
+- front:  Who is going to the meeting?
+  back:  Pwy sy'n mynd i'r cyfarfod?
+
+- front:  What is the price?
+  back:  Beth yw'r pris?
+
+
+
+
+
+
 
 
 
