@@ -45,12 +45,14 @@ cards:
 - front: She went to the office 
   back:  Aeth hi i'r swyddfa
 
+- front: I know someone who speaks Italian
+  back:  Dw i'n nabod rhywun sy'n siarad cymraeg
 
+- front: I don't know anyone who lives in France
+  back:  Dw i ddim yn nabod neb sy'n byw yn Ffrainc
 
-
-
-
-
+- front: Do you know anyone who plays netball?
+  back:  Wyt ti'n nabod rhywun sy'n chwarae pêl-rwyd
 
 
 
