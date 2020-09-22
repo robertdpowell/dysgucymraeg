@@ -3,6 +3,15 @@
 
 cards:
 
+- front: I don't mind
+  back: Does dim ots gyda fi
+
+- front: I prefer coffee
+  back: Mae'n well gyda fi goffi
+
+- front: What do you prefer - orange or apple juice?
+  back: Beth sy'n well gyda ti - sudd oren neu sudd afal?
+
 - front: What would you like to do?
   back: Beth faset ti'n hoffi ei wneud?
 
