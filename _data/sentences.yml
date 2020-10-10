@@ -3,6 +3,24 @@
 
 cards:
 
+- front: did you buy anything
+  back: prynaist ti rhwybeth?
+
+- front: did you have a good time?
+  back: gest ti amser da?
+
+- front: they stayed by the beach
+  back: arhoson nhw wrth y môr
+
+- front: they are staying in the hotel
+  back: mae nhw'n aros yn y gwesty
+
+- front: is it raining?
+  back: ydy hi'n bwrw glaw?
+
+- front: we bought something
+  back: prynon ni rhywbeth
+
 - front: I don't mind
   back: Does dim ots gyda fi
 
